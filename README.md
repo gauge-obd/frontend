@@ -41,7 +41,7 @@ This repository contains multiple projects in the `packages/` directory.
 ## Contributing
 
 Looking for places to contribute to the codebase?
-First read the [contribution guidelines](https://github.com/gauge-obd/frontend/CONTRIBUTING.md)
+First read the [contribution guidelines](https://github.com/gauge-obd/frontend/blob/main/CONTRIBUTING.md)
 
   - A simulated/mock OBD-II data service for development  
 
