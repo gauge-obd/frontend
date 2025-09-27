@@ -9,7 +9,7 @@
 
 [**Try it out on CodeSandbox ▸**](https://codesandbox.io/p/sandbox/BLANK)
 
-[**Read frequently asked questions (FAQ) on the wiki ▸**](https://github.com/gauge-obd/frontend/wiki/Frequently-Asked-Questions)
+[**Read frequently asked questions (FAQ) on the wiki ▸**](https://github.com/gauge-obd/frontend/wiki/Frequently%E2%80%90Asked%E2%80%90Questions)
 
 
 ## Changelog
