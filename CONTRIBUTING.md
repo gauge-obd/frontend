@@ -33,7 +33,7 @@ Optional for testing:
 
 **Fork the repo and clone your fork:**
    ```bash
-   git clone https://github.com/your-username/frontend.git
+   git clone https://github.com/gauge-obd/frontend.git
    ```
 
    ```bash
